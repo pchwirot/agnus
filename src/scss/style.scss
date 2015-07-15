@@ -4,6 +4,8 @@
 
 @import 'mixins/_vendor.scss';
 @import 'mixins/_position.scss';
+@import 'mixins/_functions.scss';
+@import 'mixins/_clearfix.scss';
 
 //----------------------------------*\
 // CONFIG MODULES
@@ -35,6 +37,8 @@
 @import 'modules/_typography.scss';
 @import 'modules/_misc.scss';
 @import 'modules/_app.scss';
+@import 'modules/_icons.scss';
+@import 'modules/_content.scss';
 
 // Enhancement modules
 @import 'modules/_breakpoints.scss';

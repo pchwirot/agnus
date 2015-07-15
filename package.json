@@ -1,14 +1,14 @@
 {
-  "name": "fireshell",
-  "title": "Fiercely quick and opinionated front-ends",
+  "name": "agnus",
+  "title": "agnus webpage",
   "url": "http://getfireshell.com",
-  "author": "Todd Motto",
-  "copyright": "2013",
+  "author": "Piotr Chirot",
+  "copyright": "2015",
   "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/toddmotto/fireshell.git"
+    "url": "https://github.com/pchwirot/agnus.git"
   },
   "devDependencies": {
     "grunt": "~0.4.1",

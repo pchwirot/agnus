@@ -1,10 +1,19 @@
 .header {
-
-}
-.logo {
-  margin:-100px 0 0 -84px;
-  @include position(absolute, 50% 0 0 50%);
-  img {
-
-  }
+    .logo {
+        h1 {
+            margin-top: 0;
+            padding: em(12);
+            background-color: rgba(255,255,255,0.1);
+        }
+        text-align: center;
+        span {
+            display: block;
+            font-size: em(5);
+            font-weight: 300;
+        }
+        a {
+            text-decoration: none;
+            color: $secondary-color;
+        }
+    }
 }
